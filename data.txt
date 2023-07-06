@@ -1,3 +1,4 @@
 Name: Sergio 
 Age: 29 
 Favourite Color: Azul
+Animal: Tiburón
